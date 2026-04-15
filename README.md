@@ -81,3 +81,29 @@ Regions with negative NDVI slope indicate potential:
 1. Install dependencies:
 ```bash
 pip install -r requirements.txt
+
+---
+
+## Authenticate Earth Engine:
+
+ee.Authenticate()
+Run the Colab notebook or Python script
+
+---
+
+## 📦 Requirements
+See requirements.txt
+
+---
+
+## 👨‍💻 Author
+
+Angelo Sorte
+
+---
+
+## 🌱 Future Improvements
+Pixel-level NDVI heatmaps
+Time-series deep learning (LSTM)
+Global vegetation anomaly detection
+Interactive Earth Engine dashboard
